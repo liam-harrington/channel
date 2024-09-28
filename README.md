@@ -1,2 +1,2 @@
 # channel
-A server for channel comunication with circuitpython
+A server for channel communication with circuitpython
